@@ -27,5 +27,5 @@ def split_channel(wav_path, left_wav_path,right_wav_path):
 
 
 if __name__ == '__main__':
-        split_channel('./testg.wav','output/left.wav','output/right.wav')
+        split_channel('./wav_nsx_3_no_agc_stero_voice.wav','output/wav_nsx_3_left.wav','output/wav_nsx_3_right.wav')
 
